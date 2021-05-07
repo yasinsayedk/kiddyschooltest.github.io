@@ -1,0 +1,20 @@
+body{
+	text-align:center;
+	background-image:linear-gradient(#ff00a2,#f5cca6);
+	margin:40px;
+	color:white;
+}
+a{
+	background-color:white;
+	font-size:35px;
+	color:#ff0090;
+	border-radius:80px;
+	margin:25px;
+	padding:15px;
+}
+h1,h2{
+	background-color:#d42688;
+	color:white;
+	margin:25px;
+	padding:15px;
+}
